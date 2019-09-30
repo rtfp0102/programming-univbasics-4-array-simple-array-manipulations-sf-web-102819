@@ -42,3 +42,5 @@ end
 def using_delete(instructors, name)
   no_offense_steven = instructors.delete(name)
 end
+
+def using_delete_at()
